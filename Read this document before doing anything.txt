@@ -1,0 +1,29 @@
+Read this document before doing anyting
+
+Step 1: Install Xampp control panel software in your pc
+
+Step 2: Go to local disk C, Xampp, Htdocs and create a new folder with any name
+
+Step 2: Extract the file and paste it in Local disk C/ Xampp/ htdocs/ New folder with any name. Paste it in the new folder
+
+Step 3. Go to the database folder in the file and copy the file name
+
+Step 4: Go to localhost/phpmyadmin in browser and create a new database by pasting the database name. The name should be the database name copied earlier.
+
+Step 5: Click the database and select import on the top tab.
+
+Step 6: Click on choose file and select the database file in database folder and click on import in the end of the page.
+
+Step 7: Open a new tab and go to localhost/(new folder name in htdocs folder)
+
+The website will open
+
+Login Credentials
+
+User:
+	email: jsmith@example.com
+	password: jsmith123
+
+admin:
+	username: admin
+	password: admin123
